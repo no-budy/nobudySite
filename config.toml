@@ -1,4 +1,4 @@
-baseURL = 'http://nobudy.xyz/'
+baseURL = 'https://nobudy.xyz/'
 languageCode = 'en-us'
 title = "no_budy's domain"
 theme = "poison"

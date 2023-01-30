@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>nobudy&#39;s domain on no_budy&#39;s domain</title>
-    <link>http://nobudy.xyz/</link>
+    <link>https://nobudy.xyz/</link>
     <description>Recent content in nobudy&#39;s domain on no_budy&#39;s domain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jan 2023 13:06:53 -0500</lastBuildDate><atom:link href="http://nobudy.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Jan 2023 13:06:53 -0500</lastBuildDate><atom:link href="https://nobudy.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Starting With Hugo</title>
-      <link>http://nobudy.xyz/posts/startingwithhugo/</link>
+      <link>https://nobudy.xyz/posts/startingwithhugo/</link>
       <pubDate>Sun, 29 Jan 2023 15:57:23 -0500</pubDate>
       
-      <guid>http://nobudy.xyz/posts/startingwithhugo/</guid>
+      <guid>https://nobudy.xyz/posts/startingwithhugo/</guid>
       <description>Building this site My site before this was built by hand to learn HTML and CSS. I was excited to have something of my own online but it quickly became neglected because I didn&amp;rsquo;t have an easy way to add new posts. I would have to login to my server and manually add what I wanted by writing a new page in HTML.
 I had learned what Hugo was a while ago while trying to find an easier way to make a good looking site that was easy to manage.</description>
     </item>
