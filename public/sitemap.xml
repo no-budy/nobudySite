@@ -2,17 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://nobudy.xyz/tags/gaming/</loc>
+    <lastmod>2023-01-30T15:04:32-05:00</lastmod>
+  </url><url>
+    <loc>https://nobudy.xyz/posts/melee/</loc>
+    <lastmod>2023-01-30T15:04:32-05:00</lastmod>
+  </url><url>
     <loc>https://nobudy.xyz/posts/</loc>
+    <lastmod>2023-01-30T15:04:32-05:00</lastmod>
+  </url><url>
+    <loc>https://nobudy.xyz/tags/</loc>
+    <lastmod>2023-01-30T15:04:32-05:00</lastmod>
+  </url><url>
+    <loc>https://nobudy.xyz/tags/projects/</loc>
     <lastmod>2023-01-29T15:57:23-05:00</lastmod>
   </url><url>
     <loc>https://nobudy.xyz/posts/startingwithhugo/</loc>
+    <lastmod>2023-01-29T15:57:23-05:00</lastmod>
+  </url><url>
+    <loc>https://nobudy.xyz/tags/website/</loc>
     <lastmod>2023-01-29T15:57:23-05:00</lastmod>
   </url><url>
     <loc>https://nobudy.xyz/</loc>
     <lastmod>2023-01-29T13:06:53-05:00</lastmod>
   </url><url>
     <loc>https://nobudy.xyz/series/</loc>
-  </url><url>
-    <loc>https://nobudy.xyz/tags/</loc>
   </url>
 </urlset>

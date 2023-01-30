@@ -5,6 +5,34 @@
     <link>https://nobudy.xyz/tags/</link>
     <description>Recent content in Tags on no_budy&#39;s domain</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://nobudy.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jan 2023 15:04:32 -0500</lastBuildDate><atom:link href="https://nobudy.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>gaming</title>
+      <link>https://nobudy.xyz/tags/gaming/</link>
+      <pubDate>Mon, 30 Jan 2023 15:04:32 -0500</pubDate>
+      
+      <guid>https://nobudy.xyz/tags/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://nobudy.xyz/tags/projects/</link>
+      <pubDate>Sun, 29 Jan 2023 15:57:23 -0500</pubDate>
+      
+      <guid>https://nobudy.xyz/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>website</title>
+      <link>https://nobudy.xyz/tags/website/</link>
+      <pubDate>Sun, 29 Jan 2023 15:57:23 -0500</pubDate>
+      
+      <guid>https://nobudy.xyz/tags/website/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

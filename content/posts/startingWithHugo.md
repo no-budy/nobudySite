@@ -1,6 +1,7 @@
 ---
 title: "Starting With Hugo"
 date: 2023-01-29T15:57:23-05:00
+tags: ['website', 'projects']
 draft: false
 ---
 
