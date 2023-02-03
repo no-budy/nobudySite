@@ -13,12 +13,11 @@ Right now I'm a student at OSU studying CS and Engineering and Working as a Vide
 
 ## Video editing
 ---
-I edit video part time while I'm in school. If you have any video editing needs personal, business, Youtube or otherwise; I'm your guy. Check out the [video editing](https://nobudy.xyz/videoediting/videoediting/) page! 
-
+I edit video part time while I'm in school. If you have any video editing needs personal, business, Youtube or otherwise; I'm your guy. Check out the [video editing](https://nobudy.xyz/info/videoediting/) page! 
 
 ## Computer Science
 ---
-I'm also a student currently at THE Ohio State University, studying computer science. If you are here looking to hire I'll link my digital resume [here](). I don't keep one with my name and personal info online so if you have any questions or would like a pdf copy, email me at nobudy@nobudy.xyz 
+I'm also a student currently at THE Ohio State University, studying computer science. If you are here looking to hire I'll link my digital resume [here](https://nobudy.xyz/info/resume). I don't keep one with my name and personal info online so if you have any questions or would like a pdf copy, email me at nobudy@nobudy.xyz 
 
 
 

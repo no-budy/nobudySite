@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>nobudy&#39;s domain on no_budy&#39;s domain</title>
-    <link>https://nobudy.xyz/</link>
-    <description>Recent content in nobudy&#39;s domain on no_budy&#39;s domain</description>
+    <title>Info on no_budy&#39;s domain</title>
+    <link>https://nobudy.xyz/info/</link>
+    <description>Recent content in Info on no_budy&#39;s domain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Jan 2023 13:06:53 -0500</lastBuildDate><atom:link href="https://nobudy.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Feb 2023 21:00:48 -0500</lastBuildDate><atom:link href="https://nobudy.xyz/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Video Editing</title>
       <link>https://nobudy.xyz/info/videoediting/</link>
@@ -26,26 +26,6 @@ Previous work Site in Progress </description>
       <description>Web Resume Interested in getting an internship/job in the Computer Science field working with Software Developement.
 Education The Ohio State university College of Engineering - 2024 Pursuing a Bachelor of Computer Science and Engineering
 Completed Foundations 1 &amp;amp; 2, Systems 1, Software Series, Calculus, Linear Algebra Dean&amp;rsquo;s List Spring 2020 Member of Computer Ethics Club High School Honors Diploma - May 2020 Honors Diploma 3.8 GPA Experience Technical Experience Worked with Linux systems and server management Worked with GNU Make systems C++/Java Programming Low level understanding of Assembly and Memory management Met time sensitive Deadlines Skills Programming in C++, C, Java, Python GDB Software Debugging Skills Git workflow Bash/Batch scripting Windows Powershell Linux and Windows fluency Microsoft/Libre Office Video Photo editing skills Davinci Resolve GIMP/Photoshop </description>
-    </item>
-    
-    <item>
-      <title>Getting into Melee in 2023</title>
-      <link>https://nobudy.xyz/posts/melee/</link>
-      <pubDate>Mon, 30 Jan 2023 15:04:32 -0500</pubDate>
-      
-      <guid>https://nobudy.xyz/posts/melee/</guid>
-      <description>Melee in 2023 I&amp;rsquo;d known melee existed as a competitive game for years but until slippi there wasn&amp;rsquo;t really a way for people to play casually. There had been netplay attempts with melee before but waiting around in lobbys or dolphin&amp;rsquo;s community servers wasn&amp;rsquo;t a great experience.
-I play fox Sometime last month I started playing online while I couldn&amp;rsquo;t play desktop competitive games. I was playing a lot of lichess and offline gamecube games.</description>
-    </item>
-    
-    <item>
-      <title>Starting With Hugo</title>
-      <link>https://nobudy.xyz/posts/startingwithhugo/</link>
-      <pubDate>Sun, 29 Jan 2023 15:57:23 -0500</pubDate>
-      
-      <guid>https://nobudy.xyz/posts/startingwithhugo/</guid>
-      <description>Building this site My site before this was built by hand to learn HTML and CSS. I was excited to have something of my own online but it quickly became neglected because I didn&amp;rsquo;t have an easy way to add new posts. I would have to login to my server and manually add what I wanted by writing a new page in HTML.
-I had learned what Hugo was a while ago while trying to find an easier way to make a good looking site that was easy to manage.</description>
     </item>
     
   </channel>
