@@ -7,27 +7,20 @@ draft: false
 # What is this place?
 ---
 This is my personal site where I'd like to start posting about things that I'm doing in and outside of school.
-Right now I'm a student at OSU studying CS and Engineering but I'd like to be moving towards some internships where I can
-start getting paid for this stuff. 
+Right now I'm a student at OSU studying CS and Engineering and Working as a Video editor part-time.  
 
-![Computer](/animeComputer.gif)
+{{< figure src="/animeComputer.gif" >}}
 
-## Personal Interests
+## Video editing
+---
+I edit video part time while I'm in school. If you have any video editing needs personal, business, Youtube or otherwise; I'm your guy. Check out the [video editing](https://nobudy.xyz/videoediting/videoediting/) page! 
 
-- Playing and Listening to Music
-- Video Editing
-- Competitive Video games
-- Cooking
-- Movies
-- Anime
-- Computer Stuff all around
 
-## Projects
+## Computer Science
+---
+I'm also a student currently at THE Ohio State University, studying computer science. If you are here looking to hire I'll link my digital resume [here](). I don't keep one with my name and personal info online so if you have any questions or would like a pdf copy, email me at nobudy@nobudy.xyz 
 
-I like making things in my free time; whether it be videos or something like this website, I enjoy having something to work on when I'm not queing up Valorant.
 
-{{< youtube id="YTYH6HETg98" >}}
-One of my blender experiments.
 
 {{< spacer >}}
 
